@@ -8,7 +8,7 @@ Created in 48 hours from April 26th - April 28th, 2013
 
 
 Results
----------------
+-------
 (out of 1609 "Compo" entries)
 
 - #296   Innovation  3.45 / 5.0
@@ -17,3 +17,10 @@ Results
 - #626   Mood        2.80 / 5.0
 - #644   Overall     3.09 / 5.0
 - #1158  Theme       2.77 / 5.0
+
+
+Screenshots
+-----------
+![Screenshot #1](screenshots/screen1.png)
+
+![Screenshot #2](screenshots/screen2.png)
