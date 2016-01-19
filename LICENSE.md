@@ -1,29 +1,4 @@
-# Lead the Bunny
-
-A 2D Java game created for Ludum Dare #26. The theme for this event was **Minimalism**<br />
-Created in 48 hours from April 26th - April 28th, 2013
-
-This project is no longer in development, and as a result, the code and resources have been released under certain Open Source or Creative Commons licenses.
-
-## Results
-(out of 1609 "Compo" entries)
-
-- #296   Innovation  3.45 / 5.0
-- #452   Graphics    3.18 / 5.0
-- #538   Fun         3.00 / 5.0
-- #626   Mood        2.80 / 5.0
-- #644   Overall     3.09 / 5.0
-- #1158  Theme       2.77 / 5.0
-
-
-## Screenshots
-
-![Screenshot #1](screenshots/screen1.png)
-![Screenshot #2](screenshots/screen2.png)
-
-## Licensing
-
-#### Code License
+## Code License
 
 ```
 The MIT License (MIT)
@@ -49,7 +24,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ```
 
-#### Asset License
+## Asset License
 
 ```
 All graphics and sounds used within "Lead the Bunny" are licensed CC0
